@@ -48,6 +48,42 @@ how you are doing with your plan during your 1:1s.
 
 ### 2. Knowing your tools
 
+When you set up your physical office space you make sure you have a chair, desk, monitor, keyboard and mouse
+that work for you. In a similar way, you should work towards having a development environment that will make
+your job easier. These can range from apps to IDE extensions and config/preference files.
+
+This is my list of tools:
+```
+Apps:
+1Password
+Edge
+Gifski
+Magnet
+MeetingBar
+Notion
+Pandan
+PastePal
+Quicktime Player
+Rocket
+Slack
+Spotify
+Tuple
+VSCode
+Zoom
+
+VSCode extensions:
+Alternate file
+ERB Linter
+ESLint
+GitHub Codespaces
+GitHub Copilot
+Gitlens
+Ruby
+ruby-rubocop
+```
+
+If you do not know where to start, ask your teammates what tools they use and recommend.
+
 ### 3. Taking a fresh look at existing systems
 
 ### 4. Learning existing patterns
